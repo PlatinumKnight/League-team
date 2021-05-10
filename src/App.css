@@ -1,0 +1,25 @@
+@import url(//db.onlinewebfonts.com/c/2c37f3699d9728b566e9bdc5b11e5180?family=BeaufortW01-Regular);
+@import url(//db.onlinewebfonts.com/c/12420e8c141ca7c3dff41de2d59df13e?family=BeaufortforLOL-Bold);
+h1{
+  font-family: BeaufortW01-Regular;
+}
+
+.Buttom{
+  text-align: center;
+}
+
+.Buttom button{
+  font-family: BeaufortW01-Regular;
+}
+
+.Bar-Log{
+  width: 100;
+  text-align: center;
+  
+  position: fixed;
+}
+.Bar-Log img{
+  position: relative;
+  text-align: center;
+
+}
