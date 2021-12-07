@@ -18,10 +18,9 @@
     width: 80%;
     height: 60px;
     display:flex;
-    justify-content:right;
+    align-items: center;
     justify-items: center;
     text-align:center;
-
 }
 .navbar-container div{
     margin-right: 25px;
